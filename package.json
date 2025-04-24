@@ -22,7 +22,7 @@
   "author": "Aryaman Tummalapalli <aryamant@gmail.com> (https://github.com/ary31415)",
   "license": "ISC",
   "devDependencies": {
-    "@react-native-community/eslint-config": "3.0.3",
+    "@react-native-community/eslint-config": "^3.2.0",
     "@react-native-masked-view/masked-view": "^0.3.2",
     "@types/prop-types": "^15.7.3",
     "@types/react": "^19.1.2",
